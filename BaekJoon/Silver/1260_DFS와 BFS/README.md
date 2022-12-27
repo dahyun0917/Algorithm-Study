@@ -1,4 +1,4 @@
-# [Silver IV] DFS와 BFS - 1260
+# [Silver II] DFS와 BFS - 1260
 <a href="https://www.acmicpc.net/problem/1260">문제</a>
 
 ### 성능 요약
