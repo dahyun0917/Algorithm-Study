@@ -1,0 +1,10 @@
+#BaekJoon 11478 서로 다른 부분 문자열의 개수
+S=input()
+check=set()
+for i in range(len(S)):
+    char = S[i]
+    check.add(char)
+    for j in range(i+1,len(S)):
+        char = char+S[j]
+        check.add(char)
+print(len(check))
