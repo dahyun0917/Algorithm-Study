@@ -1,5 +1,5 @@
 # [Bronze V] 나머지 - 10430
-<a href="https://www.acmicpc.net/problem/11399">문제</a>
+<a href="https://www.acmicpc.net/problem/11399">문제 </a>
 
 ### 성능 요약
 - 제출번호 : 53155950 <br>
