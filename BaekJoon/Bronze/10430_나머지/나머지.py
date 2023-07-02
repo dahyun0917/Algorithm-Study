@@ -1,4 +1,4 @@
-#BackJoon 10430 나머지
+#BackJoon 10430 나머지 
 
 input = list(map(int,input().split()))
 
